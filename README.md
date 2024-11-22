@@ -33,7 +33,7 @@ Here are a few projects that demonstrate my skills:
 
 ## 💡 Open to Collaborations  
 I’m actively looking for:  
-- **Python Development roles** (full-time or part-time).  
+- **Python Development roles** to further my code abilities.  
 - **Freelance opportunities** where I can collaborate on innovative projects.  
 - **Contributing to open source** to support community-driven initiatives.    
 
