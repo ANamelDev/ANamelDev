@@ -10,9 +10,12 @@ I'm a passionate **Python Developer** looking for opportunities to build impactf
 
 ## 🚀 Projects  
 Here are a few projects that demonstrate my skills:  
-1. **[Project Name](link-to-repo)**:  
-   - Description: [Briefly describe what the project does].  
-   - Tech stack: [Python, Django, etc.].  
+1. **[Specific Outbound Emailer]((https://github.com/ANamelDev/Specific_Outbound_Emailer)**:  
+   - Description: Mass emails each customer speifically regarding their personalized data.  
+   ## 🛠️ Tech Stack
+   - **Programming Language**: Python  
+   - **IDE**: VS Code  
+   - **AI Assistance**: ChatGPT (used for code suggestions and improvements)
 
 2. **[Project Name](link-to-repo)**:  
    - Description: [Briefly describe what the project does].  
