@@ -24,9 +24,12 @@ Here are a few projects that demonstrate my skills:
    - **IDE**: VS Code  
    - **AI Assistance**: ChatGPT (used for code suggestions and improvements)  
 
-3. **[Project Name](link-to-repo)**:  
-   - Description: [Briefly describe what the project does].  
-   - Tech stack: [FastAPI, PostgreSQL, etc.].  
+3. **[Format AR Aging Report](https://github.com/ANamelDev/Format_Aging_Report)**:  
+   - Description: [Automated AR Aging Formatting].  
+     ## 🛠️ Tech Stack
+   - **Programming Language**: Python  
+   - **IDE**: VS Code  
+   - **AI Assistance**: ChatGPT (used for code suggestions and improvements)  
 
 ## 💡 Open to Collaborations  
 I’m actively looking for:  
