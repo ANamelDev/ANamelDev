@@ -10,7 +10,7 @@ I'm a passionate **Python Developer** looking for opportunities to build impactf
 
 ## 🚀 Projects  
 Here are a few projects that demonstrate my skills:  
-1. **[Specific Outbound Emailer]((https://github.com/ANamelDev/Specific_Outbound_Emailer)**:  
+1. **[Specific Outbound Emailer](https://github.com/ANamelDev/Specific_Outbound_Emailer)**:  
    - Description: Mass emails each customer speifically regarding their personalized data.  
    ## 🛠️ Tech Stack
    - **Programming Language**: Python  
