@@ -12,14 +12,17 @@ I'm a passionate **Python Developer** looking for opportunities to build impactf
 Here are a few projects that demonstrate my skills:  
 1. **[Specific Outbound Emailer](https://github.com/ANamelDev/Specific_Outbound_Emailer)**:  
    - Description: Mass emails each customer speifically regarding their personalized data.  
-   ## 🛠️ Tech Stack
+      ## 🛠️ Tech Stack
    - **Programming Language**: Python  
    - **IDE**: VS Code  
    - **AI Assistance**: ChatGPT (used for code suggestions and improvements)
 
-2. **[Project Name](link-to-repo)**:  
-   - Description: [Briefly describe what the project does].  
-   - Tech stack: [Flask, SQLite, etc.].  
+2. **[ML_Collections_Estimate](https://github.com/ANamelDev/ML_Collections_Estimate/tree/main)**:  
+   - Description: [Provides a current week collections estimate utilizing Machine Learning].  
+     ## 🛠️ Tech Stack
+   - **Programming Language**: Python  
+   - **IDE**: VS Code  
+   - **AI Assistance**: ChatGPT (used for code suggestions and improvements)  
 
 3. **[Project Name](link-to-repo)**:  
    - Description: [Briefly describe what the project does].  
